@@ -1,5 +1,5 @@
                                     Task-1
-I have signed into my github account
+I have signed into my github account.
 I've opened the star.user.js through the link provided and copied the entire script in it.
 Then I have opened the Github page in the browser.
 I've opened the developer tools by pressing ctrl+shift+I
