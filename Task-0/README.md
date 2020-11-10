@@ -1,4 +1,5 @@
-                                                                                       TASK 0
+
+ #TASK 0
 I have downloaded the iso file of ubuntu from Ubuntu.Com. 
 The version which I downloaded was 20.04.1 LTS.
 Then with the aid of balenaEtcher I have burned the .iso file into an usb drive.
