@@ -22,6 +22,6 @@ Click on the Console tab and paste script which have been copied earlier
 ## Wait until the script is completely executed
 
 It takes a few seconds.
-At the end we can see **It's done** in blue color if done correct.
+At the end we can see **"It's done"** in blue color if done correct.
 
 It looks something like this ![scn](https://github.com/adarshreddy-g/amFOSS_tasks/blob/master/Task-1/Screenshot%20from%202020-10-21%2021-43-45.png?raw=true)
