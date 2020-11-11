@@ -6,15 +6,11 @@
 
 * Copy the entire script in  [star.user.js](https://raw.githubusercontent.com/amfoss/star-me/master/star.user.js).
 
-*  Open the GitHub page  
-  * Open Developer tools
-  * In linux or windows : Press **ctrl+shift+z** to open developer tools.
+*  Open the GitHub page and open developer tools by Pressing **ctrl+shift+z**.
 
-* Click on the Console tab and paste script which have been copied earlier
-  * **Hit Enter**
+* Click on the Console tab and paste script which have been copied earlier and **Hit Enter**
 
 * Wait until the script is completely executed
-  * It takes a few seconds.
 
 * At the end we can see **"It's done"** in blue color if executed perfectly.
 
