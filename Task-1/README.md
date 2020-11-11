@@ -1,9 +1,27 @@
-                                    Task-1
-I have signed into my github account.
-I've opened the star.user.js through the link provided and copied the entire script in it.
-Then I have opened the Github page in the browser.
-I've opened the developer tools by pressing ctrl+shift+I
-I've opened the console tab in the Developer Tools.
-Pasted the script which i have copied from star.user.js and hitted enter.
-The script started to run.
-After a few seconds it displayed "It's done" in blue colour.
+ ># Starring amFOSS repositories **
+
+## Procedure
+
+## Sign In
+Sign in to your GitHub account
+
+## Copy the Script
+Copy the entire script in  [star.user.js](https://raw.githubusercontent.com/amfoss/star-me/master/star.user.js).
+
+## Open Developer Tools in Your Browser
+Open the GitHub page and open developer tools.
+
+### Command for opening developer tools 
+In linux or windows : Press *ctrl+shift+z*
+
+## Paste the Script
+Click on the Console tab and paste script which have been copied earlier
+
+**Hit Enter**
+
+## Wait until the script is completely executed
+
+It takes a few seconds.
+At the end we can see *It's done* in blue color if done correct.
+
+It looks something like this ![scn](https://github.com/adarshreddy-g/amFOSS_tasks/blob/master/Task-1/Screenshot%20from%202020-10-21%2021-43-45.png?raw=true)
