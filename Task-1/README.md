@@ -2,10 +2,10 @@
 
 ## Procedure
 
->### Sign In
+### Sign In
 Sign in to your GitHub account
 
->### Copy the Script
+### Copy the Script
 Copy the entire script in  [star.user.js](https://raw.githubusercontent.com/amfoss/star-me/master/star.user.js).
 
 >### Open Developer Tools in Your Browser
