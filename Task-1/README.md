@@ -11,8 +11,7 @@ Copy the entire script in  [star.user.js](https://raw.githubusercontent.com/amfo
 ## Open Developer Tools in Your Browser
 Open the GitHub page and open developer tools.
 
-### Command for opening developer tools 
-In linux or windows : Press **ctrl+shift+z**
+In linux or windows : Press **ctrl+shift+z** to open developer tools.
 
 ## Paste the Script
 Click on the Console tab and paste script which have been copied earlier
