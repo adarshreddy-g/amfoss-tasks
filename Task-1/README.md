@@ -1,6 +1,6 @@
  ># Starring amFOSS repositories **
 
-## Procedure
+# Procedure
 
 ## Sign In
 Sign in to your GitHub account
