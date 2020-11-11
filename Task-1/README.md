@@ -1,4 +1,4 @@
- ># **Starring amFOSS repositories **
+ ># **Starring amFOSS repositories**
 
 # Procedure
 
