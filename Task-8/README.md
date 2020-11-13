@@ -42,3 +42,7 @@ for repo in user.get_repos():
     os.system("perceval git --json-line https://github.com/"+repo.full_name+" >> commits.json") 
 ```
 
+If executed successfully Sir perceval will be on his quest right away.
+
+![scn](https://postimg.cc/c6wS3xRv)
+
