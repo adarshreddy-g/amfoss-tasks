@@ -44,5 +44,5 @@ for repo in user.get_repos():
 
 If executed successfully Sir perceval will be on his quest right away.
 
-![scn](https://postimg.cc/c6wS3xRv)
+![Screenshot-from-2020-11-13-12-21-18.png](https://postimg.cc/c6wS3xRv)
 
