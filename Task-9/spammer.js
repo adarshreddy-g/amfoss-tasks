@@ -1,9 +1,9 @@
-var i = 0 ;
-var message = "Hi"; 
-var interval = 1  ; 
-var count = 50 ; 
+let i = 0 ;
+let message = "Hi"; 
+let interval = 1  ; 
+let count = 50 ; 
 
-var timer = setInterval(function()
+let timer = setInterval(function()
    {
 	document.getElementsByClassName('composer_rich_textarea')[0].innerHTML = message;
 	$('button').trigger('mousedown');	
