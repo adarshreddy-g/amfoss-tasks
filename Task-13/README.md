@@ -3,7 +3,7 @@
 ## Task:
 The task is to design and code a circuit which should be able to stop the motion of a motor when the circuit detects an obstacle within 100cm and notify the user about the obstacle.
 
-##Components Used:
+## Components Used:
 * Arduino
 * Motor
 * Ultrasonic sensor
