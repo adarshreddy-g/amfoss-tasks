@@ -12,9 +12,9 @@ The task is to design and code a circuit which should be able to stop the motion
 
 ## Procedure:
 * I have used an ultrasonic sensor to determine the distance from the obstacle.
-* Distance is calculated from given time and velocity by the formula **distance=velocity*time**
+* Distance is calculated from given time and velocity by the formula **distance=velocity*time**.
     * Velocity of sound in air is 340 m/s
-    * Where time is the time taken by the ultrasonic wave to hit the obstacle and travel back.
+    * Where time is the time taken by the ultrasonic wave to hit the obstacle and travel back
     * Distance=0.034*time/2 cms
 * Based on the distance to the obstacle a motor is operated and the user will be notified by an LED.
     * Green light shows the absence of obstacle in 100 cm range from the sensor.
