@@ -1,5 +1,5 @@
 # amFOSS Tasks - Adarsh Reddy
-I am Adarsh fresher at Amrita Vishwa Vidyapeetham (ELC 2020)
+I am Adarsh, fresher at Amrita Vishwa Vidyapeetham (ELC 2020)
 
 ## Table of contents
 
