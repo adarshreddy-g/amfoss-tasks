@@ -14,4 +14,4 @@
 * Out of everything adding the dots indicator was a bit tough, By watching some tutorials and reading the documentation i have added the dots indicator successfully.
 
 ## UI
-![flutter](https://j.gifs.com/4QMJqJ.gif)
+![flutter](https://github.com/adarshreddy-g/amFOSS_tasks/blob/master/Task-07/flutte.gif)
