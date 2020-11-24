@@ -1,8 +1,7 @@
 #  Ubiquitous UI
 
 ## Installation
-* I have downloaded and installed [flutter](https://flutter.dev/docs/get-started/install/windows).
-* Then i have downloaded and installed [android studio](https://developer.android.com/studio?gclid=CjwKCAiA-_L9BRBQEiwA-bm5fk-JSA_8iQqCK-_OP3EiVKPMApf058MpMbDpyoZHYYee5VDrmTGTjhoCa04QAvD_BwE&gclsrc=aw.ds).
+* I have installed [flutter](https://flutter.dev/docs/get-started/install/windows) and [android studio](https://developer.android.com/studio?gclid=CjwKCAiA-_L9BRBQEiwA-bm5fk-JSA_8iQqCK-_OP3EiVKPMApf058MpMbDpyoZHYYee5VDrmTGTjhoCa04QAvD_BwE&gclsrc=aw.ds).
 * By following the steps given in the flutter website the installation was easily done.
 
 
