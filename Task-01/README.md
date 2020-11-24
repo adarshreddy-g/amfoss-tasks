@@ -15,4 +15,4 @@
 * At the end we can see **"It's done"** in blue color if executed perfectly.
 
 ## Screenshot
-![scn](https://github.com/adarshreddy-g/amFOSS_tasks/blob/master/Task-1/Screenshot%20from%202020-10-21%2021-43-45.png?raw=true)
+![scn](https://github.com/adarshreddy-g/amFOSS_tasks/blob/master/Task-01/Screenshot%20from%202020-10-21%2021-43-45.png?raw=true)
