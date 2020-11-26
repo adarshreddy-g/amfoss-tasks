@@ -2,7 +2,6 @@
  
 I am very much passionate about learning new technologies and I think this is the best platform to develop my skills. I gave my 100 percent in doing the tasks. Though I had no programming background I strived hard to complete as many tasks as possible with perfection. This journey of mine doing the tasks had taught me many things and I wish to continue the same and keep myself updated.
 
-
  ### **What is your plan for the next 6 months ?**
  
 Giving my best in strengthening my skills and spending my time and effort as much as possible in the club along with maintaining good CGPA.
