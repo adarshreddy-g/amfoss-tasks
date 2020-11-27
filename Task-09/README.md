@@ -4,20 +4,19 @@
 To spam with messages on telegram web using JavaScript
 
 ## Procedure
-* Login into your [Telegram](https://web.telegram.org/) account in browser.
-* Select the user name whom you want to spam.
-* Then open console tab in developer tools by pressing **ctrl+shift+i** 
-* Paste the below script in the console tab.
-* Enter the message.
-* Set the count i.e how many messages you want to send.
-* You can also set the interval in seconds which is the time gap between each message.
-* Hit enter 
+
+* I have learnt some basics of javascript and html before starting the task.
+* Used the inspect option to know the class names corresponding to the divisions. 
+* After getting the respective ids, I've included them in my code so as to place my message in the corresponding division and triggered the send button from javascript.
+* Number of messages to be sent are needed to be entered right after the count variable.  
+* Interval is the time gap between each message.
+ 
 
 ```javascript
 let i = 0 ;
 let message = "Hi"; 
 let interval = 1  ; 
-let count = 50 ; 
+let count = 1000 ; 
 
 let timer = setInterval(function()
    {
@@ -29,3 +28,4 @@ let timer = setInterval(function()
    } 
 , interval * 1000 ) ;
 ```
+
