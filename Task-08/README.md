@@ -15,6 +15,7 @@ To retrieve the commits of all the repositories from amFOSS projects
 Pip is a package installer by which perceval can be installed
 
  ` $pip3 install grimoirelab
+ 
    $pip3 install perceval`
 
 Command for installing github api :
