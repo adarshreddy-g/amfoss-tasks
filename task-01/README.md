@@ -16,4 +16,4 @@
 * After execution a text **It's done** is showed in the console itself.
 
 ## Screenshot
-![scn](https://github.com/adarshreddy-g/amFOSS_tasks/blob/master/Task-01/Screenshot%20from%202020-10-21%2021-43-45.png?raw=true)
+![scn](https://github.com/adarshreddy-g/amFOSS_tasks/blob/master/task-01/Screenshot%20from%202020-10-21%2021-43-45.png?raw=true)
