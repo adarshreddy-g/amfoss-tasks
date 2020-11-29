@@ -1,7 +1,7 @@
-# Perceval
+# Sir Perceval’s quest
 
 ## Task
-To retrieve the commits of all the repositories from amFOSS projects
+To retrieve the commits of all the repositories from amFOSS projects.
 
 
 
