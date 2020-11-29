@@ -10,5 +10,5 @@
 * Fixed the errors by reading the comments and most of the functions were functioning right.
 * Finally, the Mathquiz worked perfectly.
 
-![MathQuiz](https://github.com/adarshreddy-g/amfoss-tasks/blob/master/Task-04/dderb.JPG?raw=true)
+![MathQuiz](https://github.com/adarshreddy-g/amfoss-tasks/blob/master/task-04/dderb.JPG?raw=true)
 
