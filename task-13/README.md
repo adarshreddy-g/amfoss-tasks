@@ -23,7 +23,7 @@ The task is to design and code a circuit which should be able to stop the motion
 * When there is an obstacle in the range of 100 cms then the motor won't work and LED will show the **red** light.
 
 ## Circuit
-![circuit](https://github.com/adarshreddy-g/amFOSS_tasks/blob/master/Task-13/ardui.JPG?raw=true)
+![circuit](https://github.com/adarshreddy-g/amFOSS_tasks/blob/master/task-13/ardui.JPG?raw=true)
 
 ### Code
 ```
