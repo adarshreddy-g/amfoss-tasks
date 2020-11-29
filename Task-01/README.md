@@ -7,7 +7,7 @@
 * Copied the entire script in [star.user.js](https://raw.githubusercontent.com/amfoss/star-me/master/star.user.js).
 
 * Opened the console tab in the developer tools.
- * It can be opened by pressing **ctrl+shift+i** simultaneously.
+    * It can be opened by pressing **ctrl+shift+i** simultaneously.
  
 * I have then pasted the entire script copied earlier in the console tab and pressed enter.
 
