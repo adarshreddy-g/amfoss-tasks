@@ -2,17 +2,18 @@
 
 ## Procedure
 
-* Sign in to your GitHub account.
+* I have signed into my github account.
 
-* Copy the entire script in  [star.user.js](https://raw.githubusercontent.com/amfoss/star-me/master/star.user.js).
+* Copied the entire script in [star.user.js](https://raw.githubusercontent.com/amfoss/star-me/master/star.user.js).
 
-*  Open the GitHub page and open developer tools by Pressing **ctrl+shift+z**.
+* Opened the console tab in the developer tools.
+ * It can be opened by pressing **ctrl+shift+i** simultaneously.
+ 
+* I have then pasted the entire script copied earlier in the console tab and pressed enter.
 
-* Click on the Console tab and paste script which have been copied earlier and **Hit Enter**.
+* It took a few seconds for the execution.
 
-* Wait until the script is completely executed.
-
-* At the end we can see **"It's done"** in blue color if executed perfectly.
+* After execution a text **It's done** is showed in the console itself.
 
 ## Screenshot
 ![scn](https://github.com/adarshreddy-g/amFOSS_tasks/blob/master/Task-01/Screenshot%20from%202020-10-21%2021-43-45.png?raw=true)
