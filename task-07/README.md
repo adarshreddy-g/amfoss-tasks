@@ -13,4 +13,4 @@
 * Out of everything adding the dots indicator was a bit tough. By watching some tutorials and reading the documentation I have added the dots indicator successfully.
 
 ## UI
-![flutter](https://github.com/adarshreddy-g/amFOSS_tasks/blob/master/Task-07/Screenrecording.gif)
+![flutter](https://github.com/adarshreddy-g/amFOSS_tasks/blob/master/task-07/Screenrecording.gif)
