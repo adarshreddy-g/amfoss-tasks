@@ -19,7 +19,7 @@ fn main(){
 fn scraping(url:&str)->Result<(), Box<dyn Error>>{
     let mut writer = csv::Writer::from_path("out.csv")?;
 
-  //  writer.write_record(&["Countries","Total Cases","Total Deaths","Total Recovered"])?;
+ 
     let mut countries = Vec::new();
     
     let mut req = reqwest::get(url).unwrap();
@@ -37,39 +37,25 @@ fn scraping(url:&str)->Result<(), Box<dyn Error>>{
       
 
        j+=1;
-      // println!("{:?}", vec);
-      // vec.push(teams[0]);
+      
     }
     let a2 = Selector::parse("tr").unwrap();
-   // let mut vec = Vec::new();
+  
 
     let mut i=0;    
     for q in ht.select(&a2){
         let data = q.text().collect::<Vec<_>>();
-       
-      // total_cases.push(teams[0]);
-       //println!("{:?}", teams);
+    
       if(i>8 && i<19){
-       // wtr.serialize(("Mark", "Sydney", 87))?;
+     
         writer.serialize(&data);
       }
        
-      //vec.push(teams[0]);
       i+=1;
     }
-    // for x in 0..10{
-    //     writer.write_record(&[countries[x], vec[x][1]]);
-       
-    // }
-    
+  
 
-    // for team in doc_body.select(&team){
-    //     let teams = team.text().collect::<Vec<_>>();
-    //    println!("{}", teams[0]);
-    //   // vec.push(teams[0]);
-    // }
-  //  println!("{:?}", vec);
-  //  example(&mut vec);
+  
   Ok(())
 
 }
