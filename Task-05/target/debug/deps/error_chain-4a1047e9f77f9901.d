@@ -1,0 +1,11 @@
+C:\Users\adars\Desktop\rust\target\debug\deps\error_chain-4a1047e9f77f9901.rmeta: C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\lib.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\impl_error_chain_kind.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\error_chain.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\quick_main.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\backtrace.rs
+
+C:\Users\adars\Desktop\rust\target\debug\deps\liberror_chain-4a1047e9f77f9901.rlib: C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\lib.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\impl_error_chain_kind.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\error_chain.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\quick_main.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\backtrace.rs
+
+C:\Users\adars\Desktop\rust\target\debug\deps\error_chain-4a1047e9f77f9901.d: C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\lib.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\impl_error_chain_kind.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\error_chain.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\quick_main.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\backtrace.rs
+
+C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\lib.rs:
+C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\impl_error_chain_kind.rs:
+C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\error_chain.rs:
+C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\quick_main.rs:
+C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\error-chain-0.12.1\src\backtrace.rs:

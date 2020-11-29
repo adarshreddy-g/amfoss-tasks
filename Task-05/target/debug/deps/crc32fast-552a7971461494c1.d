@@ -1,0 +1,12 @@
+C:\Users\adars\Desktop\rust\target\debug\deps\crc32fast-552a7971461494c1.rmeta: C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\lib.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\baseline.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\combine.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\mod.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\table.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\pclmulqdq.rs
+
+C:\Users\adars\Desktop\rust\target\debug\deps\libcrc32fast-552a7971461494c1.rlib: C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\lib.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\baseline.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\combine.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\mod.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\table.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\pclmulqdq.rs
+
+C:\Users\adars\Desktop\rust\target\debug\deps\crc32fast-552a7971461494c1.d: C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\lib.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\baseline.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\combine.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\mod.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\table.rs C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\pclmulqdq.rs
+
+C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\lib.rs:
+C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\baseline.rs:
+C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\combine.rs:
+C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\mod.rs:
+C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\table.rs:
+C:\Users\adars\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.2.0\src\specialized\pclmulqdq.rs:
