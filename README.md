@@ -1,6 +1,8 @@
 # amFOSS Tasks - Adarsh Reddy
 I am Adarsh, fresher at Amrita Vishwa Vidyapeetham (ELC 2020)
 
+This repository contains the tasks I have completed from the [task list](https://docs.google.com/document/d/1_7tx3gmplQcojMKQARqMWFCQH3zCvT2O9NevmDdl0BI/edit). I have completed 13 out of 15 tasks including additional tasks and I have done the [Task-05](https://github.com/adarshreddy-g/amfoss-tasks/tree/master/Task-05) (other than the 13 tasks) partially.
+
 ## Table of contents
 
 | Task  | Description                |

@@ -25,7 +25,7 @@ Command for installing github api :
 ## Procedure
 
 *  Initially I have imported Github api from github library
-* With the help of Github api I was able to get all the repositories under amFOSS organisation
+* With the help of Github api I was able to get all the repositories under amFOSS organisation.
 * Later I've imported os module which provides functions for interacting with the operating system.
 * Because of this module, I was able to provide an interface of python script with terminal commands. 
 * The command given in document is provided as an argument to os.system and all the commits of each repo are appended to commits.json.
