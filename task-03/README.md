@@ -53,6 +53,7 @@ hackerrank username **adarshreddy20031**
 * If the combination doesn't exist it simply prints 'False'.
 
 ### 6) Infinity Stones
+**Approach**
 
 * If number of boxes avengers can protect is greater than the total number of boxes then I have printed 'YES' straight away.
 * Then I have taken a variable sum and appended the values of sum of maximum number of stones that can be accommodated in the boxes for a value of i in the range of maximum boxes that can be protected by avengers.
