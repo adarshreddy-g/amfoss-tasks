@@ -1,3 +1,5 @@
+![python](https://img.shields.io/badge/-python-blue)        ![c](https://img.shields.io/badge/-C-red)
+
 hackerrank username **adarshreddy20031**
 
 * I have felt this task a bit challenging at start when I was trying it in C.
