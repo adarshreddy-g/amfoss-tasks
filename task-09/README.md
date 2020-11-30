@@ -10,6 +10,8 @@ To spam with messages on telegram web using JavaScript
 * I have learnt some basics of javascript and html before starting the task.
 * Used the inspect option to know the class names corresponding to the divisions. 
 * After getting the respective ids, I've included them in my code so as to place my message in the corresponding division and triggered the send button from javascript.
+* I have set a timer under which on each interval button gets triggered.
+* Once the count is reached timer gets cleared.
 * Number of messages to be sent are needed to be entered right after the count variable.  
 * Interval is the time gap between each message.
  
