@@ -10,14 +10,14 @@ hackerrank username **adarshreddy20031**
 
 ### 1. Great Eye
 
-Algorithm
+**Approach**
 
 * I have checked for the space. whenever the space character is encountered the ASCII values of the previous letters will be added and appended into an empty array.
 * If the word corresponding to the word doesn't exist. I have printed '-1'.
 
 ### 2) Good Strings
 
-Approach
+**Approach**
 
 * Given a string is good only if it has different number of 0's and 1's
 * So I have just compared the input string with '0' and '1'.
@@ -27,6 +27,7 @@ Approach
 ### 3) Ryuk and his death notes
 
 **Approach**
+
 * Number of death notes that can be made by the available pages can be found by simply dividing the available pages and required pages for creating each death note.
 * So I have just divided each of the given and appended to an empty array.
 * Then I have simply printed the minimum in the array.
@@ -41,6 +42,8 @@ Approach
 * Then I subtracted the given money from the bag and multiplied each value in the array through a loop.
 
 ### 5) Jack Jack Codes
+
+**Approach**
 
 * I have binary search method for this problem.
 * First I have checked the sum of first number and the last number.
@@ -58,6 +61,7 @@ Approach
 
 
 ### 7) Pizza Fest
+**Approach**
 
 * This was the toughest of all the problems.
 * The maximum score I was getting when I have written never crossed 20, then I have tried it in pypy3 and got some more test cases passed.
@@ -69,6 +73,7 @@ Approach
 
 
 ### 8) The D
+**Approach**
 
 * I have done this problem before other problems. I have done this in C back then.
 * I have taken a variable j which is (n-1)/2 times the number of lines.
@@ -78,10 +83,13 @@ Approach
 
 
 ### 9) Homework Time
+**Approach**
+
 * Initially I've used recursion for this program and it was continuously terminating due to time out. I was so fed up with this code because it looked easier and passed the sample test cases but returning the time out error on submission. 
 * Then a problem I've solved in PSAT course with fibonacci series gave me a different thought of this solution. I've made a sum of previous 3 numbers as a current number and shifted the previous numbers to new places. Then for reversing the number, I've typecased the number to string and reversed after removing the trailing zeroes.
 
 ### 10) Minimum Ninja Sum
+**Approach**
 
 * Since ninja sum is the sum of k consecutive digits and to find the difference between ninja sums of two successive digits, I implemented the below logic which helped me to solve the problem.  
 * If abc is a number, then ninja sum of a will be a+b and ninja sum of b is b+c(given k as 2).
