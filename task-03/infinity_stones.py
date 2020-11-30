@@ -4,7 +4,7 @@ while(t):
     a=list(map(int, input().split()))
     b=list(map(int,input().split()))
     c=list(map(int,input().split()))
-    
+    c.sort(reverse=True)
     if(a[1]<=a[2]):
         print('YES')
     else:
@@ -23,3 +23,7 @@ while(t):
                
         
         
+    
+
+
+

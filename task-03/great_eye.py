@@ -11,7 +11,7 @@ while(t):
             a.append(sum)
             sum=0
     a.append(sum)
-    if(k>len(a)):
+    if(k>len(a)-1):
         print(-1)
     else:
         print (a[k])
@@ -25,3 +25,6 @@ while(t):
                 
             
         
+        
+    
+    
