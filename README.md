@@ -23,7 +23,8 @@ This repository contains the tasks I have completed from the [task list](https:/
 |[Task-14](https://github.com/adarshreddy-g/amFOSS_tasks/tree/master/task-14)| Bandit                     |
 |[Task-15](https://github.com/adarshreddy-g/amFOSS_tasks/tree/master/task-15)| Project Euler              |
 
-| **Task**  || **Description (Pending)**      |
-|---         | ---------------                                  |
 
-| Task-06  ||    Geddit                      |
+
+| **Task**  | **Description (Pending)**      |
+|---        | ---------------                |
+| Task-06  || Geddit                      |
