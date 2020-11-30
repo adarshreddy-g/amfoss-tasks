@@ -25,11 +25,9 @@
 ### Largest Prime Factor
 
 
-
-
-
-
-
+* Initially I have divided the number by 2 and if the remainder is zero, I have updated the number with number/2.
+* After this I have written a loop from 3 to n in steps of 2 from which we can get only odd numbers.
+* The first step is repeated with other numbers and the final remainder is the largest prime factor.
 
 ### Largest palindrome product
 
