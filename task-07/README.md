@@ -27,7 +27,7 @@ This was the most difficult part of this task for me. It is the most time taking
 I have tried to add the page responsiveness as suggested by my mentor but I am not sure whether I have done it perfectly.
 I have used mediaquery which gives the length and width of the screen, hence all other parameters will be adjusted according to the dimensions.
 
-* This is one of my favourite task in the list.
+
 
 ## UI
 ![flutter](https://github.com/adarshreddy-g/amFOSS_tasks/blob/master/task-07/Screenrecording.gif)
