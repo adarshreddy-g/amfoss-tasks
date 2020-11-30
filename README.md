@@ -25,6 +25,6 @@ This repository contains the tasks I have completed from the [task list](https:/
 
 
 
-| **Task**  | **Description (Pending)**      |
-|---        | ---------------                |
-| [Task-06]()  | Geddit                       |
+| **Task**  | **Description (Pending)**                   |
+|---        | ---------------                               |
+|[Task-06](https://github.com/adarshreddy-g/amfoss-tasks)  | Geddit |
