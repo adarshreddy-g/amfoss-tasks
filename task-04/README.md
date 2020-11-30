@@ -1,3 +1,4 @@
+   ![Java](https://img.shields.io/badge/-Java-green)
 # Debugging Derbies
 
 ### Task
@@ -26,3 +27,4 @@ The task is to find out all the bugs in the given java code and fix them.
 
 ![MathQuiz](https://github.com/adarshreddy-g/amfoss-tasks/blob/master/task-04/dderb.JPG?raw=true)
 
+  
