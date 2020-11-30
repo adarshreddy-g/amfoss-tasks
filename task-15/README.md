@@ -6,4 +6,3 @@
 * For the last two problems I have got some test cases failed due to runtime error.
 * But all of the problems were displaying the desired output.
 
->>>>>>> Stashed changes
