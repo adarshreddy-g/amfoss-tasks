@@ -1,3 +1,5 @@
+![Javascript](https://img.shields.io/badge/-Javasctipt-brightgreen)
+
 # Spammer_Spaghetti
 
 ## Task:
