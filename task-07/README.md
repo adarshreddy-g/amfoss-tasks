@@ -15,15 +15,15 @@
 * I have seen the sample UI and tried to create the UI same as that.
 * Out of everything adding the dots indicator was a bit tough. By watching some tutorials and reading the documentation I have added the dots indicator successfully.
 
-### adding a button
+### Adding a button
 This part was easy. I just googled on how to add a button and I found documentation on making it in a sizedbox and adding the padding around it.
 ### Creating pages
 I have created two pages by using pageview.
 ### Adding images
 I have downloaded the images provided. At first I was confused that why 1x,2x,3x images are given where I thought only 1x will be enough. So as I started adding the assets the images were not aligning properly, then I tried using the 2x and 3x images then I made them align perfectly.
-### adding the dots indicator
+### Adding the dots indicator
 This was the most difficult part of this task for me. It is the most time taking part too. But at last by googling about it I imported the dots indicator library and made it work.
-### Page responsiveness
+### Page Responsiveness
 I have tried to add the page responsiveness as suggested by my mentor but I am not sure whether I have done it perfectly.
 I have used mediaquery which gives the length and width of the screen, hence all other parameters will be adjusted according to the dimensions.
 
