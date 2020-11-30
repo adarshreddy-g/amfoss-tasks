@@ -1,6 +1,4 @@
-<<<<<<< Updated upstream
-hackerrank username - **adarshreddy20031**
-=======
+![python](https://img.shields.io/badge/-Python-blue)
 ## Project Euler
 #### Hackerrank username - **adarshreddy20031**
 * Some of the problems were easy and I got all the test cases right for them.
