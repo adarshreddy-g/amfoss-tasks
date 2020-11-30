@@ -1,5 +1,4 @@
 ![python](https://img.shields.io/badge/-Python-blue)
-## Project Euler
 
 
 ## Project Euler
@@ -23,7 +22,6 @@
 
 
 ### 3) Largest Prime Factor
-
 
 * Initially I have divided the number by 2 and if the remainder is zero, I have updated the number with number/2.
 * After this I have written a loop from 3 to n in steps of 2 from which we can get only odd numbers.
