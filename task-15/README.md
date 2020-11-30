@@ -1,9 +1,6 @@
 ![python](https://img.shields.io/badge/-Python-blue)
 ## Project Euler
-#### Hackerrank username - **adarshreddy20031**
 
-
-hackerrank username - **adarshreddy20031**
 
 ## Project Euler
 
@@ -49,4 +46,4 @@ hackerrank username - **adarshreddy20031**
 * So I have used the formula that LCM of two numbers* GCD of two numbers= Product of numbers.
 * Using math.gcd I got GCD of two numbers and with the above formula I got the LCM.
 
-
+#### Hackerrank username - **adarshreddy20031**

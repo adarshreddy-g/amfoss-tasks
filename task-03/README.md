@@ -84,10 +84,12 @@ Approach
 ### 10) Minimum Ninja Sum
 
 * Since ninja sum is the sum of k consecutive digits and to find the difference between ninja sums of two successive digits, I implemented the below logic which helped me to solve the problem.  
-
 * If abc is a number, then ninja sum of a will be a+b and ninja sum of b is b+c(given k as 2).
-*  So difference of ninja sums of a and b is a-c. 
-*  Here comes the conclusion that difference of ninja sums of i th digit is difference of (i+k)th digit and i th digit given that (i+k)th digit exists.
+* So difference of ninja sums of a and b is a-c. 
+* Here comes the conclusion that difference of ninja sums of i th digit is difference of (i+k)th digit and i th digit given that (i+k)th digit exists.
 * I've appended absolute of differences to an array and printed the minimum. 
 * If there are no k consecutive digits, -1 is printed.
 
+Hackerrank Username - **adarshreddy20031**
+
+Total Score - **882.65**
