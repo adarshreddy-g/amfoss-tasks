@@ -91,3 +91,5 @@ Approach
 * I've appended absolute of differences to an array and printed the minimum. 
 * If there are no k consecutive digits, -1 is printed.
 
+Hackerrank Username - **adarshreddy20031**
+Total Score - 882.65
