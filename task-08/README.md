@@ -29,6 +29,7 @@ Command for installing github api :
 * Later I've imported os module which provides functions for interacting with the operating system.
 * Because of this module, I was able to provide an interface of python script with terminal commands. 
 * The command given in document is provided as an argument to os.system and all the commits of each repo are appended to commits.json.
+* Finally a commits.json file is formed and all the the commits of amfoss are stored in that.
 
 ## Script
 
