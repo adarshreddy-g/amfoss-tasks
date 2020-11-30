@@ -9,7 +9,7 @@ This repository contains the tasks I have completed from the [task list](https:/
 |-------|----------------------------|
 |[Task-00](https://github.com/adarshreddy-g/amFOSS_tasks/tree/master/task-00)|Installing Ubuntu           |
 |[Task-01](https://github.com/adarshreddy-g/amFOSS_tasks/tree/master/task-01)|Star all amFOSS Repositories|
-|[Task-02](https://github.com/adarshreddy-g/amFOSS_tasks/tree/master/task-02)|IRC Freenode                |
+|[Task-02](https://github.com/adarshreddy-g/amFOSS_tasks/tree/master/task-02)|Nick Registration in IRC Freenode                |
 |[Task-03](https://github.com/adarshreddy-g/amFOSS_tasks/tree/master/task-03)|Hackerrank Problems         |
 |[Task-04](https://github.com/adarshreddy-g/amFOSS_tasks/tree/master/task-04)|Debugging Derbies           |
 |[Task-05](https://github.com/adarshreddy-g/amfoss-tasks/tree/master/task-05)|Rustic Scraper              |
@@ -27,4 +27,4 @@ This repository contains the tasks I have completed from the [task list](https:/
 
 | **Task**  | **Description (Pending)**      |
 |---        | ---------------                |
-| Task-06  || Geddit                      |
+| Task-06  | Geddit                       |
