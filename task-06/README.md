@@ -26,3 +26,5 @@ Major blocker was during the installation I got undefined reddit error and this 
 * So all the 100 top posts are obtained and are upvoted.
 
 * Enter the client id, Secret, Username and password just after the variables and the task is done.
+
+
