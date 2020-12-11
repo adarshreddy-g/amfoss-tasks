@@ -27,4 +27,8 @@ Major blocker was during the installation I got undefined reddit error and this 
 
 * Enter the client id, Secret, Username and password just after the variables and the task is done.
 
+![scn](https://github.com/adarshreddy-g/amfoss-tasks/blob/master/task-06/Screenshot%20from%202020-12-11%2019-41-0433.png)
 
+* Upvoted posts can be seen in the profile page in reddit.
+
+![scn2](https://github.com/adarshreddy-g/amfoss-tasks/blob/master/task-06/Screenshot%20from%202020-12-11%2019-46-10.png)
