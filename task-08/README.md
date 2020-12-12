@@ -33,6 +33,7 @@ https://github.com/adarshreddy-g/amfoss-tasks/blob/master/task-08/commits.json).
 
 
 
-![scn](https://github.com/adarshreddy-g/dum/blob/master/Screenshot%20from%202020-11-13%2012-21-18.png?raw=true)
+
+
 
 I am very much thankful to [venu anna](https://github.com/vchrombie) for helping me by clearing my doubts in this task.
