@@ -2,7 +2,7 @@
 I am Adarsh, fresher at Amrita Vishwa Vidyapeetham (ELC 2020)
 
 This repository contains the tasks I have completed from the [task list](https://docs.google.com/document/d/1_7tx3gmplQcojMKQARqMWFCQH3zCvT2O9NevmDdl0BI/edit).
-The following are the tasks I have completed:
+
 ## Table of contents
 
 | **Task**  | **Description**                |
